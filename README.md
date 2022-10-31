@@ -35,7 +35,7 @@ Currently studying Computer Engineering in [UEFS](https://www.uefs.br/).
   <hr/>
 
   <div>
-    <a><img alt="Ian's Activity Graph" src="https://https://activity-graph.herokuapp.com/graph?username=ian-zaque&custom_title=Ian%20Zaque%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <img alt="Ian's Activity Graph" src="https://https://activity-graph.herokuapp.com/graph?username=ian-zaque&custom_title=Ian%20Zaque%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" />
   <div> 
 </div>
    
@@ -45,7 +45,7 @@ Currently studying Computer Engineering in [UEFS](https://www.uefs.br/).
 <br/>
    
 <div align="center">
-![Snake animation](https://github.com/ian-zaque/ian-zaque/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/ian-zaque/ian-zaque/blob/output/github-contribution-grid-snake.svg)
  <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/ian-zaque/ian-zaque/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ian-zaque/ian-zaque/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only) -->
   
