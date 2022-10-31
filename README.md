@@ -35,7 +35,7 @@ Currently studying Computer Engineering in [UEFS](https://www.uefs.br/).
   <hr/>
 
   <div>
-    <a href=""><img alt="Ian's Activity Graph" src="https://https://activity-graph.herokuapp.com/graph?username=ian-zaque&custom_title=Ian%20Zaque%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <a><img alt="Ian's Activity Graph" src="https://https://activity-graph.herokuapp.com/graph?username=ian-zaque&custom_title=Ian%20Zaque%27s%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
   <div> 
 </div>
    
