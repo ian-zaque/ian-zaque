@@ -24,7 +24,7 @@ Currently studying Computer Engineering in [UEFS](https://www.uefs.br/).
 <diV>
 
   <div align="left">
-    <a href="#"><img alt="Ian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ian-zaque&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6 " height="200"/></a>
+    <a href="#"><img alt="Ian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ian-zaque&show_icons=true&include_all_commits=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
     <a href="#"><img alt="Ian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-zaque&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ian-zaque&label=Profile%20views&color=0e75b6&style=flat" alt="ian-zaque" /> </p>
     <br/>
